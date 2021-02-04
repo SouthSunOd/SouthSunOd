@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Kateryna!
 
-<!--
-**SouthSunOd/SouthSunOd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I`m curious and self learning person, with passion in art and digital design!
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+  ### Connect with me:
+
+[<img align="left" alt="manuelricci.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](#)
+
+#
+
+[<img align="left" alt="Manuel Ricci | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](#)
+
+#
+
+[<img align="left" alt="Manuel Ricci | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](#)
+
+#
+
+[<img align="left" alt="Manuel Ricci | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](#)
